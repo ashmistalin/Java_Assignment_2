@@ -7,19 +7,19 @@ Register number: 212221040021
 ```
 
 ```
-# Files for question 1:
+## Files for question 1:
 Bird.java
 Animal.java
 Solution.java
 ```
 
 ```
-# Foles for question 2:
+## Files for question 2:
 Employee.java
 Manager.java
 Member.java
 Emp.java
 ```
 ```
-# Files for question 3:
+## Files for question 3:
 ```
