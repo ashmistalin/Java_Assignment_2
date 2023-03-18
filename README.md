@@ -27,6 +27,5 @@ Main.java
 ``
 ```
 ## Files for question 4:
-Employee.java
-Main.java
+Power.java
 ```
