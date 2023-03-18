@@ -31,3 +31,26 @@ public class Emp {
 
     }
 }
+
+
+## OUTPUT:
+
+
+C:\Users\Dell\.jdks\openjdk-19.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\lib\idea_rt.jar=4235:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Dell\IdeaProjects\java java\out\production\java java" Emp
+Details of the employee:
+Name: Ashmi
+Age: 23
+Phone number: 9567761840
+Address: T Nagar, Chennai.
+Department of the emoployee: IT
+Salary is:40000
+
+Deatils of the manager:
+Name: Rahul
+Age: 34
+Phone number: 9897667839
+Address: Anna nagar,Chennai
+specialization:Front end developer.
+Salary is:60000
+
+Process finished with exit code 0
