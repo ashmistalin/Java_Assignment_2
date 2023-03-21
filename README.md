@@ -7,9 +7,7 @@ Register number: 212221040021
 ```
 
 ```
-## Files for question 1:
-Bird.java
-Animal.java
+## File for question 1:
 Solution.java
 ```
 
