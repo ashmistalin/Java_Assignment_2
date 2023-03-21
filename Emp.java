@@ -1,5 +1,45 @@
 
-public class Emp {
+public class Member {
+    String name;
+
+    int age;
+
+
+    String phone_number;
+
+    String address;
+
+    int salary;
+    public void printSalary()
+    {
+
+        System.out.println("Salary is:"+salary);
+
+    }
+}
+public class Employee extends Member {
+
+
+    public void emp() {
+
+      String department="IT";
+        System.out.print("Department of the emoployee: "+department+"\n");
+
+
+    }
+}
+public class Manager extends Member {
+    public void emp1() {
+
+       String specialization="Front end developer.";
+        System.out.println("specialization:"+specialization);
+
+    }
+}
+
+Main Function:
+
+public class Main {
     public static void main(String[] args)
     {
         Employee e=new Employee();
