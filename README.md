@@ -13,9 +13,6 @@ Solution.java
 
 ```
 ## Files for question 2:
-Employee.java
-Manager.java
-Member.java
 Emp.java
 ```
 ```
