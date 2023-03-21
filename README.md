@@ -17,7 +17,6 @@ Emp.java
 ```
 ```
 ## Files for question 3:
-Employee.java
 Main.java
 ```
 
